@@ -1,7 +1,4 @@
-spring:
-  application:
-    name: companies-crud
-  datasource:
+ datasource:
     username: debuggeandoideas
     hikari:
       maximum-pool-size: '5'
